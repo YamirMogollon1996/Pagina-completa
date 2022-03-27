@@ -1,0 +1,27 @@
+
+$pallete:(
+        "primary" : #1E72DC,
+        "secondary" : #A574F0 ,
+
+
+);
+
+
+@import "./Componentes/header";
+@import "./Componentes/section";
+@import "./Componentes/_aboutme";
+@import "./Componentes/Skillsection";
+@import "./Componentes/_seccionestudios";
+@import "./Componentes/_services";
+@import "./Componentes/_hero_aborder";
+@import "./Componentes/_formulario";
+@import "./Componentes/_footer";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    background-color: #fff;
+    
+}

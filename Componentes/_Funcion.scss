@@ -1,0 +1,5 @@
+
+@function  llamada ($color){
+        @return    map-get($map: $pallete, $key: $color  )
+
+}

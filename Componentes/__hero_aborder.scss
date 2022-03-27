@@ -1,0 +1,25 @@
+.aborder_hero_delete{
+    padding: 2em;
+    background-color: map-get($map: $pallete, $key:"secondary" );
+    text-align: center;
+    // background: coral;
+    img{
+        border-radius: 50%;
+        
+        width: 200px;
+       
+    }   h1{
+        background: none;
+        margin-bottom: 2em;
+        color: whitesmoke;
+    }
+}
+
+// .footer{
+//     background-color: aliceblue;
+//     margin-bottom: 2em;
+//     text-align: center;
+//     // border: 1px solid rgb(181, 24, 196);
+//     background: whitesmoke;
+    
+// }
